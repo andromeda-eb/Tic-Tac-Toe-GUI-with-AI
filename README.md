@@ -2,5 +2,5 @@
 A GUI implementation of tic tac toe with the minimax algorithm.
 Program is implemented in Java.Player is X and AI is O.
 
-#Dependencies
+# Dependencies
 Java
